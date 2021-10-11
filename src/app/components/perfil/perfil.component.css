@@ -2,7 +2,7 @@
     border-radius:150px;
     height: 110px;
     width: 100px;
-    margin-top: 10%;
+    margin-top: -10%;
     margin-left: 60%;
   }
   .card{
@@ -19,19 +19,19 @@
     border-radius:150px;
     height: 110px;
     width: 100px;
-    margin-top: 10%;
+    margin-top: 1%;
     margin-left: 80%;
   }
 
-  @media (min-width: 1200px){
+}
+
+  @media (min-width: 1020px){
 
     .circular--square {
       border-radius:150px;
       height: 110px;
       width: 100px;
-      margin-top: 10%;
+      margin-top: 3%;
       margin-left: 90%;
     }
   }
-
-} 
